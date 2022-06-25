@@ -1,0 +1,12 @@
+{
+    "name": "reber/chat",
+    "autoload": {
+        "psr-4": {
+            "Reber\\Chat\\": "src/"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.4",
+        "ext-pdo": "*"
+    }
+}
